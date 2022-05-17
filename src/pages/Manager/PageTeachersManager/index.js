@@ -50,7 +50,7 @@ export default function PageTeachersManager() {
   // Set data
   const teachers = [
     {
-      id: "teacher_1",
+      id: "Teacher_1",
       name: "Nguyễn Tiến Danh",
       education: "Tiến sĩ",
       dob: "29/05/1988",
@@ -58,7 +58,7 @@ export default function PageTeachersManager() {
       subjects: "Kỹ thuật giao tiếp",
     },
     {
-      id: "teacher_2",
+      id: "Teacher_2",
       name: "Vũ Duy Thức",
       education: "Tiến sĩ",
       dob: "29/05/1988",
@@ -66,7 +66,7 @@ export default function PageTeachersManager() {
       subjects: "AI",
     },
     {
-      id: "teacher_3",
+      id: "Teacher_3",
       name: "Ngô Bảo Châu",
       dob: "29/05/1988",
       education: "Giáo sư",
@@ -74,7 +74,7 @@ export default function PageTeachersManager() {
       subjects: "Giải tích",
     },
     {
-      id: "teacher_4",
+      id: "Teacher_4",
       name: "Hiếu Pc",
       dob: "29/05/1988",
       education: "Kỹ Sư",
@@ -82,7 +82,7 @@ export default function PageTeachersManager() {
       subjects: "An toàn thông tin",
     },
     {
-      id: "teacher_5",
+      id: "Teacher_5",
       name: "Tiệp Phan",
       dob: "29/05/1990",
       education: "Kỹ Sư, GDE Angular",
@@ -90,7 +90,7 @@ export default function PageTeachersManager() {
       subjects: "Angular",
     },
     {
-      id: "teacher_6",
+      id: "Teacher_6",
       name: "Thịnh Nguyễn",
       dob: "29/05/1988",
       education: "Kỹ Sư",
@@ -98,7 +98,7 @@ export default function PageTeachersManager() {
       subjects: "NodeJS, ReactJS, MongoDB",
     },
     {
-      id: "teacher_7",
+      id: "Teacher_7",
       name: "Phạm Huy Hoàng",
       dob: "29/05/1992",
       education: "Kỹ Sư",

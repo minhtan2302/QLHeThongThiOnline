@@ -18,42 +18,42 @@ export default function PageAccountsManager() {
   const [dataSource, setDataSource] = useState([
     {
       key: "1",
-      username: "teacher_1",
+      username: "Teacher_1",
       role: "Giảng viên",
     },
     {
       key: "2",
-      username: "student_1",
+      username: "Student_1",
       role: "Sinh viên",
     },
     {
       key: "3",
-      username: "student_2",
+      username: "Student_2",
       role: "Sinh viên",
     },
     {
       key: "4",
-      username: "teacher_2",
+      username: "Teacher_2",
       role: "Giảng viên",
     },
     {
       key: "5",
-      username: "teacher_3",
+      username: "Teacher_3",
       role: "Giảng viên",
     },
     {
       key: "6",
-      username: "student_3",
+      username: "Student_3",
       role: "Sinh viên",
     },
     {
       key: "7",
-      username: "student_4",
+      username: "Student_4",
       role: "Sinh viên",
     },
     {
       key: "8",
-      username: "teacher_4",
+      username: "Teacher_4",
       role: "Giảng viên",
     },
   ]);
